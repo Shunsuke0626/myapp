@@ -1,0 +1,6 @@
+framework module Pods_NumeronTests {
+  umbrella header "Pods-NumeronTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
